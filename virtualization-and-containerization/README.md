@@ -5,24 +5,7 @@
 
 **Learning objective:** By the end of this lesson, students will be able to describe the roles of virtualization and containerization in cloud infrastructure.
 
-## What is Cloud Infrastructure?
 
-![AWS Cloud Offerings](./assets/aws-offerings.png)
-
-Cloud infrastructure includes the essential components for cloud computing. This consists of networking equipment, servers, and data storage. It also features a hardware abstraction layer that enables resource virtualization, helping to reduce costs through economies of scale. In simple terms, cloud infrastructure is the foundation needed to host services and applications in the cloud.
-
-<div class="activity guided-walkthrough">
-  <h2 class="title">Allow me to demonstrate...</h2>
-  <span class="minutes">3 min</span>
-</div>
-
-The [AWS Cloud Products page](https://aws.amazon.com/products/?aws-products-all.sort-by=item.additionalFields.productNameLowercase&aws-products-all.sort-order=asc&awsf.re%3AInvent=*all&awsf.Free%20Tier%20Type=*all&awsf.tech-category=*all) has a full listing of all AWS products and services (over 240!)
-
-- If you want to run containers on AWS, what services might you use?
-
-- What about a SQL database?
-
-- Have you heard of any of these services? Do you currently use them?
 
 ## How Does Cloud Infrastructure Work?
 

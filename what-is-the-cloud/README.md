@@ -24,7 +24,7 @@ As you collaborate, consider the following questions:
 
 As you discuss, nominate someone to summarize your findings and post them in the chat. Let’s see how your definitions compare!
 
-## Intro to Cloud Computing
+## What is Cloud Computing?
 
 Cloud computing is just on-demand computing resources delivered to you or your business via the internet.
 
@@ -33,5 +33,24 @@ Put roughly, a cloud is a series of computers that exist in a data center. These
 Basically, the cloud is just somebody else's servers.
 
 <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--xdpnQY54--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/i/wvzab3xcoutaa9ijaske.jpeg" alt="aws-logo" style="width:400px;"/>
+
+## What is Cloud Infrastructure?
+
+![AWS Cloud Offerings](./assets/aws-offerings.png)
+
+Cloud infrastructure includes the essential components for cloud computing. This consists of networking equipment, servers, and data storage. It also features a hardware abstraction layer that enables resource virtualization, helping to reduce costs through economies of scale. In simple terms, cloud infrastructure is the foundation needed to host services and applications in the cloud.
+
+<div class="activity guided-walkthrough">
+  <h2 class="title">Allow me to demonstrate...</h2>
+  <span class="minutes">3 min</span>
+</div>
+
+The [AWS Cloud Products page](https://aws.amazon.com/products/?aws-products-all.sort-by=item.additionalFields.productNameLowercase&aws-products-all.sort-order=asc&awsf.re%3AInvent=*all&awsf.Free%20Tier%20Type=*all&awsf.tech-category=*all) has a full listing of all AWS products and services (over 240!)
+
+- _If you want to run containers on AWS, what services might you use?_
+
+- _What about a SQL database?_
+
+- _Have you heard of any of these services? Do you currently use them?_
 
 ---
