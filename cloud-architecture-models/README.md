@@ -77,7 +77,7 @@ Take a look at Uber's updated infrastructure reconfigured as microservices:
 
 <br>
 
-![Uber Infrastructure as Microservices](./assets/microservices-architecture.png)
+<img src="./assets/microservices-architecture.png" alt="Uber Infrastructure as Microservices" style="width:600px;"/>
 
 [Source](https://medium.com/@anselmleo/clear-the-clutter-what-a-microservice-architecture-is-not-53f9cc163eff)
 
