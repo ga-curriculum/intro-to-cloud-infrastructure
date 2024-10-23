@@ -74,9 +74,13 @@ Some common examples of **SaaS** are:
 This cloud service model is called Platform-as-a-Service (PaaS) and is gaining significant popularity.
 
 - PaaS gives developers access to a development platform, such as a web server, that’s already up and running.
+
 - Developers can quickly deploy their web applications with minimal effort and without worrying about server maintenance or infrastructure setup.
+
 - PaaS operates a layer above IaaS, providing an environment to develop, run, and manage applications without handling lower-level tasks like load balancing or network configuration.
+
 - The delivery model of PaaS is similar to SaaS, but instead of delivering software over the internet, it provides cloud components that assist with application development.
+
 - PaaS allows developers to focus on building scalable, highly available applications without worrying about operating systems, software updates, storage, or other infrastructure concerns.
 
 <br>

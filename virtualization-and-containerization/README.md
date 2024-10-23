@@ -13,7 +13,7 @@ Cloud infrastructure includes the essential components for cloud computing. This
 
 <div class="activity guided-walkthrough">
   <h2 class="title">Allow me to demonstrate...</h2>
-  <span class="minutes">5 min</span>
+  <span class="minutes">3 min</span>
 </div>
 
 The [AWS Cloud Products page](https://aws.amazon.com/products/?aws-products-all.sort-by=item.additionalFields.productNameLowercase&aws-products-all.sort-order=asc&awsf.re%3AInvent=*all&awsf.Free%20Tier%20Type=*all&awsf.tech-category=*all) has a full listing of all AWS products and services (over 240!)
