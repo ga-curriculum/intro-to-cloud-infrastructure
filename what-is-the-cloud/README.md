@@ -36,9 +36,11 @@ Basically, the cloud is just somebody else's servers.
 
 ## What is Cloud Infrastructure?
 
+Cloud infrastructure includes the essential components for cloud computing. This consists of networking equipment, servers, and data storage. It also features a hardware abstraction layer that enables resource virtualization, helping to reduce costs through economies of scale. In simple terms, cloud infrastructure is the foundation needed to host services and applications in the cloud.
+
 ![AWS Cloud Offerings](./assets/aws-offerings.png)
 
-Cloud infrastructure includes the essential components for cloud computing. This consists of networking equipment, servers, and data storage. It also features a hardware abstraction layer that enables resource virtualization, helping to reduce costs through economies of scale. In simple terms, cloud infrastructure is the foundation needed to host services and applications in the cloud.
+<br>
 
 <div class="activity guided-walkthrough">
   <h2 class="title">Allow me to demonstrate...</h2>
