@@ -1,4 +1,3 @@
-<!-- ! Do not delete or rename this file! -->
 <h1>
   <span class="prefix"></span>
   <span class="headline">Intro to Cloud Infrastructure</span>
@@ -10,8 +9,8 @@ This module provides a foundational understanding of cloud computing and its var
 
 ## Content
 
-| Lesson                                                                                    | Est. Delivery Time | Skills                                                                            |
-| ----------------------------------------------------------------------------------------- | ------------------ | --------------------------------------------------------------------------------- |
+| Lesson                                                                                     | Est. Delivery Time | Skills                                                                            |
+| ------------------------------------------------------------------------------------------ | ------------------ | --------------------------------------------------------------------------------- |
 | [What Is The Cloud?](../what-is-the-cloud/README.md)                                       | 10 min             | Understanding of cloud concepts, cloud computing basics                           |
 | [Cloud Migration: Drivers and Benefits](../cloud-migration-drivers-and-benefits/README.md) | 30 min             | Cloud migration drivers, evaluating cloud benefits                                |
 | [Comparing Cloud Providers](../comparing-cloud-providers/README.md)                        | 15 min             | Compare and contrast the features and offerings of major cloud providers          |

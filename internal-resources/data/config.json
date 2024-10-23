@@ -1,0 +1,139 @@
+{
+  "org": {
+    "friendlyName": "Modular Curriculum All Courses",
+    "name": "modular-curriculum-all-courses"
+  },
+  "repo": {
+    "friendlyName": "Intro to Cloud Infrastructure",
+    "name": "intro-to-cloud-infrastructure",
+    "type": "Lesson"
+  },
+  "courses": [
+    {
+      "name": "fallback",
+      "logoUrl": "",
+      "microlessons": [
+        {
+          "friendlyName": "What Is The Cloud?",
+          "dirName": "what-is-the-cloud",
+          "type": "Content",
+          "videoUrl": ""
+        },
+        {
+          "friendlyName": "Cloud Migration: Drivers and Benefits",
+          "dirName": "cloud-migration-drivers-and-benefits",
+          "type": "Content",
+          "videoUrl": ""
+        },
+        {
+          "friendlyName": "Comparing Cloud Providers",
+          "dirName": "comparing-cloud-providers",
+          "type": "Content",
+          "videoUrl": ""
+        },
+        {
+          "friendlyName": "Virtualization and Containerization",
+          "dirName": "virtualization-and-containerization",
+          "type": "Content",
+          "videoUrl": ""
+        },
+        {
+          "friendlyName": "Cloud Architectural Models",
+          "dirName": "cloud-architecture-models",
+          "type": "Content",
+          "videoUrl": ""
+        },
+        {
+          "friendlyName": "Everything is a Service",
+          "dirName": "everything-is-a-service",
+          "type": "Content",
+          "videoUrl": ""
+        }
+      ],
+      "isHeaderShown": true,
+      "isHeaderModuleNavShown": true,
+      "isHeaderHomeNavShown": true,
+      "isHeaderMicrolessonNavShown": true,
+      "isHeaderMicrolessonVideoLinkShown": true,
+      "isHeaderNavSettingsShown": true,
+      "isFooterCopyrightShown": true,
+      "isFooterLessonNavShown": true,
+      "isStickyNavSettingShown": true,
+      "isStickyNavAllowed": true,
+      "isFixedNavAllowed": true,
+      "isStickyNavDefault": true,
+      "isStickyNavForcedDefault": false,
+      "isFixedNavForcedDefault": false,
+      "isDarkModeSettingShown": true,
+      "isDarkModeAllowed": true,
+      "isLightModeAllowed": true,
+      "isLightModeDefault": true,
+      "isLightModeForcedDefault": false,
+      "isDarkModeForcedDefault": false,
+      "isActivityTimeShown": true
+    },
+    {
+      "name": "mea",
+      "logoUrl": "",
+      "microlessons": [
+        {
+          "friendlyName": "What Is The Cloud?",
+          "dirName": "what-is-the-cloud",
+          "type": "Content",
+          "videoUrl": ""
+        },
+        {
+          "friendlyName": "Cloud Migration: Drivers and Benefits",
+          "dirName": "cloud-migration-drivers-and-benefits",
+          "type": "Content",
+          "videoUrl": ""
+        },
+        {
+          "friendlyName": "Comparing Cloud Providers",
+          "dirName": "comparing-cloud-providers",
+          "type": "Content",
+          "videoUrl": ""
+        },
+        {
+          "friendlyName": "Virtualization and Containerization",
+          "dirName": "virtualization-and-containerization",
+          "type": "Content",
+          "videoUrl": ""
+        },
+        {
+          "friendlyName": "Cloud Architectural Models",
+          "dirName": "cloud-architecture-models",
+          "type": "Content",
+          "videoUrl": ""
+        },
+        {
+          "friendlyName": "Everything is a Service",
+          "dirName": "everything-is-a-service",
+          "type": "Content",
+          "videoUrl": ""
+        }
+      ],
+      "isHeaderShown": true,
+      "isHeaderModuleNavShown": true,
+      "isHeaderHomeNavShown": true,
+      "isHeaderMicrolessonNavShown": true,
+      "isHeaderMicrolessonVideoLinkShown": true,
+      "isHeaderNavSettingsShown": true,
+      "isFooterCopyrightShown": true,
+      "isFooterLessonNavShown": true,
+      "isStickyNavSettingShown": true,
+      "isStickyNavAllowed": true,
+      "isFixedNavAllowed": true,
+      "isStickyNavDefault": true,
+      "isStickyNavForcedDefault": false,
+      "isFixedNavForcedDefault": false,
+      "isDarkModeSettingShown": true,
+      "isDarkModeAllowed": true,
+      "isLightModeAllowed": true,
+      "isLightModeDefault": true,
+      "isLightModeForcedDefault": false,
+      "isDarkModeForcedDefault": false,
+      "isActivityTimeShown": true
+    }
+  ]
+}
