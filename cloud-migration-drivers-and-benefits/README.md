@@ -26,8 +26,6 @@ Let's have a look at some potential business drivers:
 | **Scalability**                   | Instantly scale up and down so that you only use and pay for what you require.                                                                                                                                       |
 | **Environmental Benefits**        | Migrating to the cloud can improve energy efficiency by up to **93%** compared to traditional on-premises data centers according to a 2020 Microsoft study.                                                          |
 
----
-
 ## Case Study
 
 <div class="activity group-exercise">
@@ -54,8 +52,6 @@ How do you prevent this from _ever_ happening again?
 <br>
 
 > **See the Real Case Study**: (_This activity is based on the true story of [SETTour](https://aws.amazon.com/solutions/case-studies/settour/)._)
-
----
 
 ## What are the Blockers?
 
