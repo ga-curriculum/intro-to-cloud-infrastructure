@@ -104,6 +104,7 @@ Just like pizza, there are different ways to get your cloud services. These are 
 <br>
 
 ![Pizza as a Service](./assets/pizza-as-a-service.png)
+We did our best to find the chef of this analogy. We believe [Albert Barron](https://www.linkedin.com/pulse/20140730172610-9679881-pizza-as-a-service) deserves credit.
 
 <br>
 
