@@ -29,6 +29,11 @@ This module provides a foundational understanding of cloud computing and its var
 
 - None
 
+### Github Pages Sites
+
+- [Default Landing Page](https://pages.git.generalassemb.ly/modular-curriculum-all-courses/intro-to-cloud-infrastructure/canvas-landing-pages/fallback)
+- [MEA - Modern Engineering](https://pages.git.generalassemb.ly/modular-curriculum-all-courses/intro-to-cloud-infrastructure/canvas-landing-pages/mea)
+
 ### Resources
 
 ✏️ [Instructor Guide](./internal-resources/instructor-guide.md)
