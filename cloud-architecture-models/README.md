@@ -15,7 +15,7 @@ Consider this early model of **Uber's** infrastructure:
 
 ![Uber Infrastructure as a Monolith](./assets/monolith-architecture.png)
 
-[Source](https://medium.com/@anselmleo/clear-the-clutter-what-a-microservice-architecture-is-not-53f9cc163eff)
+[source](https://medium.com/@anselmleo/clear-the-clutter-what-a-microservice-architecture-is-not-53f9cc163eff)
 
 <br>
 
@@ -79,7 +79,7 @@ Take a look at Uber's updated infrastructure reconfigured as microservices:
 
 <img src="./assets/microservices-architecture.png" alt="Uber Infrastructure as Microservices" style="width:600px;"/>
 
-[Source](https://medium.com/@anselmleo/clear-the-clutter-what-a-microservice-architecture-is-not-53f9cc163eff)
+[source](https://medium.com/@anselmleo/clear-the-clutter-what-a-microservice-architecture-is-not-53f9cc163eff)
 
 <br>
 

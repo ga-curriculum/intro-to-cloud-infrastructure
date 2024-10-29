@@ -5,8 +5,6 @@
 
 **Learning objective:** By the end of this lesson, students will be able to describe the roles of virtualization and containerization in cloud infrastructure.
 
-
-
 ## How Does Cloud Infrastructure Work?
 
 The capabilities of cloud infrastructure are enabled by two key concepts:
@@ -21,7 +19,7 @@ These technologies work together to make cloud services flexible, scalable, and 
 
 ![Virtual Machines vs. Containers](./assets/vms-vs-containers.png)
 
-[Source](https://www.docker.com/what-container#/package_software)
+[source](https://www.docker.com/what-container#/package_software)
 
 ## Virtualization
 
