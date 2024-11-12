@@ -18,6 +18,7 @@ This module provides a foundational understanding of cloud computing and its var
 | [Virtualization and Containerization](../virtualization-and-containerization/README.md)    | 10 min             | Describe the roles of virtualization and containerization in cloud infrastructure |
 | [Cloud Architectural Models](../cloud-architecture-models/README.md)                       | 15 min             | Explore monolithic, service-oriented, and microservices architecture models       |
 | [Everything is a Service](../everything-is-a-service/README.md)                            | 15 min             | Explore three main cloud service models (IaaS, PaaS, and SaaS)                    |
+| Total Content                                                                              | 100 min            |                                                                                   |
 
 ## References
 
