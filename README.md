@@ -5,7 +5,7 @@
 
 ## About
 
-This module provides a foundational understanding of cloud computing and its various components. Learners will explore key cloud concepts, including the benefits of cloud migration, the differences between major cloud providers, and the importance of virtualization and containerization. Additionally, the module delves into different architectural models and the service models (IaaS, PaaS, SaaS) that make cloud computing so versatile. By the end, students will have a comprehensive overview of how cloud infrastructure operates and the factors that influence decisions around cloud adoption.
+This module provides a foundational understanding of cloud computing and its various components. Learners will explore key cloud concepts, including the benefits of cloud migration, the differences between major cloud providers, and the importance of virtualization and containerization. Additionally, the module explores different architectural models and the service models (IaaS, PaaS, SaaS) that make cloud computing so versatile. By the end, students will have a comprehensive overview of how cloud infrastructure operates and the factors that influence decisions around cloud adoption.
 
 ## Content
 
