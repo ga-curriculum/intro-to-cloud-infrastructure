@@ -49,6 +49,5 @@ Instead of dividing physical resources, tools like Docker split **OS resources**
 <br>
 
 <p> In a <strong>virtualized</strong> environment, each virtual machine has its own guest OS.<p>
-<p> In a <strong>containerized</strong> environment, the operating system lives on the physical server and the OS resources are split across each container.<p>
+<p> In a <strong>containerized</strong> environment, the operating system lives on the host and the OS resources are split across each container.<p>
 
-</details>
